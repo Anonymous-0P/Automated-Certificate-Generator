@@ -1,0 +1,22 @@
+[
+  {
+    "activity": "AWS Security",
+    "marks": 20
+  },
+  {
+    "activity": "AWS Cloud Builder",
+    "marks": 20
+  },
+  {
+    "activity": "PortSwigger Labs",
+    "marks": 20
+  },
+  {
+    "activity": "FreeCodeCamp Certificate",
+    "marks": 20
+  },
+  {
+    "activity": "Vulnerability Assessment and Penetration Testing",
+    "marks": 18
+  }
+]
